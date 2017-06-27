@@ -15,5 +15,11 @@ A collection of blockchain study materials
 - [블록체인 구조와 이론](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158390662&orderClick=LAH&Kc=)
 - [비트코인, 블록체인과 금융의 혁신](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788976418883&orderClick=LAH&Kc=)
 
+## Concepts
+- [Ethereum Concept](https://github.com/ethereum/wiki/wiki/%5BKorean%5D-White-Paper)
+
 ## Repositories/Packages
 - [Pyethereum](https://github.com/ethereum/pyethereum)
+
+## Blockchain Technologies
+- [Partricia Tree](https://github.com/ethereum/wiki/wiki/Patricia-Tree)
