@@ -20,6 +20,8 @@ A collection of blockchain study materials
 
 ## Repositories/Packages
 - [Pyethereum](https://github.com/ethereum/pyethereum)
+- [Go-ethereum](https://github.com/ethereum/go-ethereum)
+- [Solidity Programming Language (Contract Oriented PL)](https://github.com/ethereum/solidity)
 
 ## Blockchain Technologies
 - [Partricia Tree](https://github.com/ethereum/wiki/wiki/Patricia-Tree)
