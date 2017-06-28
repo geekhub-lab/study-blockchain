@@ -26,9 +26,12 @@ A collection of blockchain study materials
 ## Blockchain Technologies
 - [Partricia Tree](https://github.com/ethereum/wiki/wiki/Patricia-Tree)
 
-## Development Environment
-### Ethereum
+## DApp Development
+### Development Environment
 - IDE
   - [Remix](https://ethereum.github.io/browser-solidity)
+### Libraries
+- [solidity-stringutils](https://github.com/Arachnid/solidity-stringutils)
+### Tools
 - Blockchain Explorer
   - [Etherscan](https://etherscan.io)
