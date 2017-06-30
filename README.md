@@ -17,6 +17,8 @@ A collection of blockchain study materials
 
 ## Concepts
 - [Ethereum Concept](https://github.com/ethereum/wiki/wiki/%5BKorean%5D-White-Paper)
+- [A 101 Noob Intro to Programming Smart Contracts on Ethereum
+](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4)
 
 ## Repositories/Packages
 - [Pyethereum](https://github.com/ethereum/pyethereum)
