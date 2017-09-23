@@ -8,6 +8,9 @@ A collection of blockchain study materials
 - [@qwerty1917](https://github.com/qwerty1917)
 - [@roamgom](https://github.com/roamgom)
 
+## Our Projects
+- [Blockchain Go](https://github.com/geekhub-lab/blockchain-go)
+
 ## Books
 - [비즈니스 블록체인](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788968483592&orderClick=LAG&Kc=)
 - [블록체인의 충격](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788997383955&orderClick=LAG&Kc=)
